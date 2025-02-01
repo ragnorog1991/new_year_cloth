@@ -1,0 +1,42 @@
+{
+  "name": "new-year-cloth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/lozad": "^1.16.4",
+    "autoprefixer": "^10.4.20",
+    "browser-sync": "^3.0.2",
+    "cssnano": "^7.0.6",
+    "gulp": "4.0.0",
+    "gulp-autoprefixer": "^7.0.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-cli": "^2.3.0",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-postcss": "^10.0.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^5.1.0",
+    "gulp-webp": "^5.0.0",
+    "imagemin-jpeg-recompress": "^7.1.0"
+  },
+  "browserslist": [
+    "last 1 version",
+    "> 1%",
+    "maintained node versions",
+    "not dead"
+  ],
+  "dependencies": {
+    "-": "^0.0.1",
+    "animejs": "^3.2.2",
+    "bootstrap": "^5.3.3",
+    "g": "^2.0.1",
+    "gulp-htmlmin": "^5.0.1",
+    "lozad": "^1.16.0",
+    "sass": "^1.71.1"
+  }
+}

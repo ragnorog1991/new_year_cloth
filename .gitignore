@@ -1,0 +1,8 @@
+# Игнорировать папку node_modules
+node_modules/
+
+# Другие игнорируемые файлы и папки
+*.log                # Логи
+*.tmp                # Временные файлы
+.DS_Store            # macOS
+Thumbs.db           # Windows
